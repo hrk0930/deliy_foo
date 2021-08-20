@@ -586,15 +586,12 @@ table tr:last-child *{
 .taiku3 {
   font-size: 80px;
   font-family: 'Kaisei HarunoUmi', serif;
-  margin: 0 435px;
+  margin: 0 547px;
 }
-
-font-family: 'Sacramento', cursive;
-font-family: 'Ubuntu Mono', monospace;
 
 .jpeg1{
   height: calc(100vh - 190px);
-  width: 100%;
+  width: 1440px;
   position: relative;
 }
 
